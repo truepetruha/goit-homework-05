@@ -431,6 +431,10 @@ section {
     align-items: baseline;
 }
 
+.footer-content-two {
+    margin-right: 80px;
+}
+
 .footer-advice {
     margin-right: 120px;
 }
